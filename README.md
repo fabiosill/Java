@@ -1,2 +1,2 @@
 # Java
-Training in java
+Projects training java
